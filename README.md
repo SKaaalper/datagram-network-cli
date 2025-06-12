@@ -25,7 +25,7 @@ This guide helps you install and run a **Datagram Node CLI** as an **Early Alpha
 - To qualify as an Early Alpha Tester:
 - Follow [@DGramNetwork](https://x.com/DGramNetwork) on X and Retweet/Like the [Alpha Testnet video](https://x.com/DGramNetwork/status/1932786372613734602 ).
 - Join [Telegram Group](https://t.me/datagramnetwork)
-- Join [Discord](https://discord.gg/dcM6PF33fu) Server and refer 5 friends.
+- Join [Discord](https://discord.gg/dcM6PF33fu) Server.
 - Make sure to run your node before submitting the **Early Alpha Tester** [Form](https://docs.google.com/forms/d/e/1FAIpQLSevC3QjAx4xdNysKoRtCSR_5cAUtVBhoNu3XoCrQBIOYVQN8A/viewform)
 
 ### 2. Register Your Account:
