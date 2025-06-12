@@ -1,6 +1,6 @@
 ## 📡 Datagram Network — Node Setup Guide (Early Alpha)
 
-![image](https://github.com/user-attachments/assets/f31a7b60-e8af-4b66-b20f-731b7c326142)
+![image](https://github.com/user-attachments/assets/2134be74-1523-4fc1-999f-897c2fa0cbb2)
 
 **Datagram is an AI-powered Hyper-Fabric Network that connects DePINs (Decentralized Physical Infrastructure Networks), enabling real-time data processing and intelligent bandwidth allocation across industries like telecom, gaming, and AI.**
 
