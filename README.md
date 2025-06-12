@@ -7,11 +7,17 @@
 This guide helps you install and run a **Datagram Node CLI** as an **Early Alpha Tester**.
 
 📝 Requirements:
-✅ Linux VPS (Ubuntu 20.04 or newer)
-✅ Basic terminal access
+
+✅ **Linux VPS** (Ubuntu 20.04 or newer)
+
+✅ **Basic terminal access**
+
 ✅ **Discord**, **Telegram**, and **X** accounts
+
 ✅ [Register Datagram Dashboard account](https://dashboard.datagram.network?ref=427744600)
+
 ✅ Your **Datagram API Key** from **Wallet** > [Licenses tab](https://dashboard.datagram.network/wallet?tab=licenses)
+
 
 ## Step-by-Step Installation:
 
