@@ -88,6 +88,9 @@ screen -r datagram
 - Q: Does the **node** need to run **24/7**?
 - A: Yes, for **optimal rewards**.
 
+### Datagram Official Docs
+- https://doc.datagram.network/setup-datagram/partner-substrate-setup/local-machine-ubuntu-linux
+
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SKaaalper&color=yellow" alt="Profile Views" />
 </p>
