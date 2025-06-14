@@ -6,7 +6,14 @@
 
 This guide helps you install and run a **Datagram Node CLI** as an **Early Alpha Tester**.
 
-📝 Requirements:
+📌 Minimum System Requirements:
+
+| Component | Requirement |
+| --------- | ----------- |
+| CPU       | 4 Cores     |
+| RAM       | 4 GB        |
+
+🛠️ Prepare this Before Installation:
 
 ✅ **Linux VPS** (Ubuntu 20.04 or newer)
 
@@ -34,7 +41,12 @@ This guide helps you install and run a **Datagram Node CLI** as an **Early Alpha
 
 ![image](https://github.com/user-attachments/assets/ef15ffd6-0c45-4284-880b-567562730636)
 
-### 3. Install Datagram CLI:
+### 3. Update Package List and Install screen:
+```
+sudo apt update && sudo apt install screen -y
+```
+
+### 4. Install Datagram CLI:
 - Run the following command to install the CLI tool:
 ```
 wget https://github.com/Datagram-Group/datagram-cli-release/releases/latest/download/datagram-cli-x86_64-linux && \
@@ -42,13 +54,13 @@ sudo mv datagram-cli-x86_64-linux /usr/local/bin/datagram-cli && \
 sudo chmod +x /usr/local/bin/datagram-cli
 ```
 
-### 4. Run the Node:
+### 5. Run the Node:
 - Replace `YOUR_API_KEY` with the actual key from your dashboard:
 ```
 screen -dmS datagram datagram-cli run -- -key YOUR_API_KEY
 ```
 
-### 5. Check Node Logs:
+### 6. Check Node Logs:
 ```
 screen -r datagram
 ```
@@ -56,11 +68,11 @@ screen -r datagram
   
 ![image](https://github.com/user-attachments/assets/ed81859d-6eca-4e6c-9ceb-7f4c61c951c5)
 
-### 6. For Windows and MAC:
+### 7. For Windows and MAC:
 
 ![image](https://github.com/user-attachments/assets/b4e053d2-7720-434a-b5b8-774fbbdde32f)
 
-### 7. Confirm Participation
+### 8. Confirm Participation
 - Submit the [Early Alpha Form](https://docs.google.com/forms/d/e/1FAIpQLSevC3QjAx4xdNysKoRtCSR_5cAUtVBhoNu3XoCrQBIOYVQN8A/viewform) with your X and Discord info.
 
 ![image](https://github.com/user-attachments/assets/95fb4d52-aa4b-491e-8cb7-ed1d0dc9586f)
