@@ -6,14 +6,14 @@
 
 This guide helps you install and run a **Datagram Node CLI** as an **Early Alpha Tester**.
 
-📌 Minimum System Requirements:
+**📌 Minimum System Requirements**:
 
 | Component | Requirement |
 | --------- | ----------- |
 | CPU       | 4 Cores     |
 | RAM       | 4 GB        |
 
-🛠️ Prepare this Before Installation:
+**🛠️ Prepare this Before Installation**:
 
 ✅ **Linux VPS** (Ubuntu 20.04 or newer)
 
