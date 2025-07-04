@@ -1,4 +1,4 @@
-## 📡 Datagram Network — Node Setup Guide (Early Alpha)
+# 📡 Datagram Network — Node Setup Guide (Early Alpha)
 
 ![image](https://github.com/user-attachments/assets/2134be74-1523-4fc1-999f-897c2fa0cbb2)
 
@@ -12,6 +12,8 @@ This guide helps you install and run a **Datagram Node CLI** as an **Early Alpha
 | --------- | ----------- |
 | CPU       | 4 Cores     |
 | RAM       | 4 GB        |
+
+## **Guide on How to buy VPS**: [Contabo](https://medium.com/@Airdrop_Jheff/guide-on-how-to-buy-a-vps-server-from-contabo-and-set-it-up-on-termius-0928e0e5cb5d)
 
 **🛠️ Prepare this Before Installation**:
 
